@@ -211,23 +211,6 @@ Stack: HTML • CSS • JavaScript
 🎯 Mission
 
 Build AI-powered products that combine great user experience, strong engineering, and effective project management.
-📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tushar0644&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar0644&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar0644&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar0644&theme=github_dark"/>
-
-</p>
 
 🏆 GitHub Trophies
 
@@ -255,21 +238,6 @@ After creating it, add this to your README:
 
 </p>
 
-⚡ Developer Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar0644&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar0644&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tushar0644&theme=github_dark&utcOffset=5.5"/>
-
-</p>
 
 🎯 Status
 
@@ -308,21 +276,19 @@ After creating it, add this to your README:
 </p>
 
 📄 Resume
+<a href="YOUR_RESUME_LINK">
 
-<p align="center">
+<img src="https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 
-<a href="https://github.com/tushar0644">
-<img src="https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/tushar0644/tushar0644/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
+<img src="https://raw.githubusercontent.com/tushar0644/tushar0644/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 💡 Current Focus
 
 🚀 Building SprintMind AI
@@ -343,16 +309,3 @@ Thanks for visiting my profile! ⭐
 
 </div>
 
-🚀 Next Upgrade Ideas
-
-Custom SVG hero banner using your photo
-
-Project thumbnail images
-
-Glassmorphism project cards
-
-Dynamic Spotify / LeetCode widgets
-
-Custom animated SVG assets
-
-Auto-generated metrics with GitHub Actions
