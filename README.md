@@ -22,9 +22,9 @@
 <img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
-name: Tushar Bhati
+Name: Tushar Bhati
 
-role:
+Role:
   - AI Project Manager
   - QA Engineer
   - Full Stack Developer
