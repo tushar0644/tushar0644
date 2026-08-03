@@ -18,7 +18,9 @@
 
 💫 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
 
 name: Tushar Bhati
 
@@ -77,7 +79,11 @@ Agile Scrum
 "I don't just build software. I build products that solve real-world problems."
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar0644&theme=github_dark">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tushar0644&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar0644&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ⚡ Quick Facts
@@ -313,16 +319,15 @@ After creating it, add this to your README:
 
 🐍 Snake GitHub Action
 
-Create:
-
-.github/workflows/snake.yml
-
 name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -339,7 +344,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
